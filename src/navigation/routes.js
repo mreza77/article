@@ -1,3 +1,4 @@
 export default Object.freeze({
-    HOME: "Home"
+    HOME: "Home",
+    DETAIL: "Detail"
 });

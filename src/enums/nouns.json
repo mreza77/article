@@ -1,0 +1,14 @@
+{
+   "SUBJECT": "عنوان",
+   "DATE":"تاریخ",
+   "WRITER.NAME":"نویسنده",
+   "NUMBER.COMMENTS":"تعداد کامنت",
+   "SCORE":"امتیاز",
+   "FILTER":"فیلتر",
+   "HOT":"hot",
+   "POPULAR":"popular",
+   "RISING":"rising",
+   "TOP":"top",
+   "NEW":"new"
+ 
+}

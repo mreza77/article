@@ -13,13 +13,19 @@
     "@react-native-community/masked-view": "^0.1.11",
     "@react-navigation/native": "^6.0.8",
     "@react-navigation/native-stack": "^6.5.0",
+    "axios": "^0.26.0",
+    "date-fns": "^2.28.0",
+    "date-fns-jalali": "^2.28.0-0",
     "react": "17.0.2",
     "react-native": "0.67.2",
+    "react-native-floating-action": "^1.22.0",
     "react-native-gesture-handler": "^2.2.0",
     "react-native-reanimated": "^2.4.1",
     "react-native-responsive-screen": "^1.4.2",
     "react-native-safe-area-context": "^3.3.2",
-    "react-native-screens": "^3.11.1"
+    "react-native-screens": "^3.11.1",
+    "react-native-toast-message": "^2.1.1",
+    "react-native-webview": "^11.17.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
